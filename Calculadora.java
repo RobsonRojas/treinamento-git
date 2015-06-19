@@ -9,4 +9,7 @@ public class Calculadora
 	public int multiplicaca(int i, int j{
 		return i*j;
 	}
+	public int divisao(int i, int j){
+		return i/j;
+	}
 }
