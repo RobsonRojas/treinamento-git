@@ -12,4 +12,6 @@ public class Calculadora
 	public int divisao(int i, int j){
 		return i/j;
 	}
+
+	Calculadora(){}
 }
